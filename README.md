@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <b> Connect with me:</b> &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://www.linkedin.com/in/rajarajeshwari-pandikumar-744592339" target="blank">
-  <img align="center" img src="./assets/Linkedin.png" alt="Linkedin" width="40"/>
+  <img align="center" img src="./assets/Linkedin.png" alt="Linkedin" width="30"/>
 
 
 
