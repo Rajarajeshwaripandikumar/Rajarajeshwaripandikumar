@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   <img src="./assets/Mongoose.png" alt="Mongoose" width="60"/>
   <img src="./assets/VS Code.png" alt="VS Code" width="35"/>
   <img src="./assets/Azure.png" alt="Azure" width="60"/>
-  <img src="./assets/Vagrant.png" alt="Vagrant" width="60"/>
-  <img src="./assets/Postgre SQL.png" alt="Postgre SQL" width="60"/>
+  <img src="./assets/Vagrant.png" alt="Vagrant" width="35"/>
+  <img src="./assets/Postgre SQL.png" alt="Postgre SQL" width="35"/>
 </p>
 
