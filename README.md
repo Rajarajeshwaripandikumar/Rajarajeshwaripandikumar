@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-<img src="./assets/Java.png" alt="Java" width="60"/>
-<img src="./assets/MYSql.png" alt="MYSql" width="60"/>
+<img src="./assets/Java.png" alt="Java" width="55"/>
+<img src="./assets/MYSql.png" alt="MYSql" width="55"/>
   <img src="./assets/MongoDB.png" alt="MongoDB" width="60"/>
   <img src="./assets/SpringBoot.png" alt="SpringBoot" width="40"/>
   <img src="./assets/NodeJS.png" alt="NodeJS" width="40"/>
@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 <img src="./assets/Docker.png" alt="Docker" width="60"/>
 <img src="./assets/Kubernetes.png" alt="Kubernetes" width="40"/>
  <img src="./assets/Ansible.png" alt="Ansible" width="30"/>
-<img src="./assets/Cassandra.png" alt="Cassandra" width="40"/>
+<img src="./assets/Cassandra.png" alt="Cassandra" width="50"/>
 <img src="./assets/Kafka.png" alt="Kafka" width="40"/>
-<img src="./assets/Terraform.png" alt="Terraform" width="60"/>
+<img src="./assets/Terraform.png" alt="Terraform" width="75"/>
 <img src="./assets/Langchain.png" alt="Langchain" width="40"/>
 <img src="./assets/Bash.png" alt="Bash" width="40"/>
 <img src="./assets/Git.png" alt="Git" width="40"/>
