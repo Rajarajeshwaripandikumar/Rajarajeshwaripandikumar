@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img src="./assets/Html.png" alt="Html" width="25"/>
   <img src="./assets/CSS.png" alt="CSS" width="35"/>
   <img src="./assets/JS.png" alt="JS" width="50"/>
-  <img src="./assets/Express.png" alt="Express" width="70"/>
+  <img src="./assets/Express.png" alt="Express" width="50"/>
   <img src="./assets/React.png" alt="React" width="40"/>
   <img src="./assets/Python.png" alt="Python" width="40"/>
  <img src="./assets/Apache Maven.png" alt="Apache Maven" width="40"/>
