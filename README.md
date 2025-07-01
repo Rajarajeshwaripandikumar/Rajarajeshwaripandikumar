@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </table>
 <table><td><img src="./assets/React.png" alt="React" width="40"/></td>
  <td><img src="./assets/Python.png" alt="Python" width="40"/></td>
-<td><img src="./assets/Apache Maven.png" alt="Apache Maven" width="40"/></td>
+<td><img src="./assets/Maven.png" alt="Maven" width="40"/></td>
 <td><img src="./assets/AWS.png" alt="AWS" width="40"/></td>
 <td><img src="./assets/Jenkins.png" alt="Jenkins" width="65"/></td>
 </table>
@@ -67,7 +67,10 @@ Here are some ideas to get you started:
 <table>
   <td><img src="./assets/Vagrant.png" alt="Vagrant" width="35"/></td>
  <td><img src="./assets/Postgre SQL.png" alt="Postgre SQL" width="35"/></td>
+<td><img src="./assets/Tomcat.png" alt="Tomcat" width="35"/></td>
   </tr>
+</tr>
+
 </table>
 
 
