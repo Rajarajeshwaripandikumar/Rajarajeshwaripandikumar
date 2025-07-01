@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <table>
   <tr align="center">
-    <td><img src="./assets/Java.png" width="40"/></td>
+    <td><img src="./assets/Java.png" width="50"/></td>
     <td><img src="./assets/Html.png" width="25"/></td>
     <td><img src="./assets/CSS.png" width="35"/></td>
     <td><img src="./assets/JS.png" width="50"/></td>
