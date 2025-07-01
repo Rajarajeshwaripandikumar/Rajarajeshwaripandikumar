@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <table>
   <td><img src="./assets/Vagrant.png" alt="Vagrant" width="35"/></td>
  <td><img src="./assets/Postgre SQL.png" alt="Postgre SQL" width="35"/></td>
-<td><img src="./assets/Tomcat.png" alt="Tomcat" width="35"/></td>
+<td><img src="./assets/Tomcat.png" alt="Tomcat" width="45"/></td>
   </tr>
 </tr>
 
