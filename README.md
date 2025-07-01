@@ -72,5 +72,10 @@ Here are some ideas to get you started:
 </tr>
 
 </table>
+<br>
+
+📄 View My Certificate
+<br>
+[Click here](./certificate.pdf)
 
 
