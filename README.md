@@ -75,6 +75,23 @@ Proxima Nova.
 </table>
 <br>
 
+walmart-clone/
+├── frontend/
+│   └── react-app/
+├── backend/
+│   ├── inventory-service/
+│   ├── order-service/
+│   └── delivery-service/
+├── database/
+│   ├── mongo-init.js
+│   └── cassandra-schema.cql
+├── docker/
+├── k8s/
+├── terraform/
+├── ansible/
+└── README.md
+
+
 
 
 
