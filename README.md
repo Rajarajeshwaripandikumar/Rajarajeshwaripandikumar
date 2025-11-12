@@ -1,45 +1,82 @@
-## Hi there 👋
+<div align="center" style="font-family:'Proxima Nova', sans-serif; color:#111827;">
 
-<b>Rajarajeshwari &nbsp;Pandikumar</b>
---------
+<h2 style="color:#0071DC; font-weight:800;">✨ Hi there 👋</h2>
 
+<h1 style="font-weight:900;">I'm Rajarajeshwari Pandikumar</h1>
 
-<b> Connect with me:</b> &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://www.linkedin.com/in/rajarajeshwari-pandikumar-744592339" target="blank">
-  <img align="center" img src="./assets/Linkedin.png" alt="Linkedin" width="30"/>
+<p>
+🎯 <b>Full Stack Developer | Educator | Tech Enthusiast</b>
+</p>
 
+<p align="center" style="max-width:700px;">
+I’m passionate about building scalable web applications using <b>React</b>, <b>Spring Boot</b>, and <b>Node.js</b> — and I love turning ideas into clean, working code.  
+With a background in both <b>software development</b> and <b>teaching</b>, I bring strong analytical skills, team collaboration, and a drive for continuous learning.
+</p>
 
+---
 
-<table>
+### 🧩 About Me
+<table align="center" style="font-size:15px; border-collapse:collapse;">
+<tr><td>💼</td><td>0.5 years of experience as a <b>Full Stack Developer</b> at Ranmars Corp, Chennai</td></tr>
+<tr><td>🎓</td><td>4 years of experience as an <b>Assistant Professor</b> at Chendhuran COET and Sri Raaja Raajan COET (Anna University)</td></tr>
+<tr><td>🚀</td><td>Currently exploring <b>Cloud & DevOps</b> — AWS, Docker, Jenkins, CI/CD</td></tr>
+<tr><td>💡</td><td>Always excited to learn emerging technologies and build real-world projects</td></tr>
+</table>
+
+---
+
+### 🎓 Education
+<table align="center" style="font-size:15px;">
+<tr><td>🧠</td><td><b>M.E. – Computer Science (CGPA: 7.95)</b><br/>Institute of Road and Transport Technology, Anna University (2014–2016)</td></tr>
+<tr><td>💻</td><td><b>B.E. – Computer Science (CGPA: 7.78)</b><br/>PSNA College of Engineering, Anna University (2010–2014)</td></tr>
+</table>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajarajeshwari-pandikumar-744592339" target="_blank">
+    <img src="./assets/Linkedin.png" alt="Linkedin" width="35"/>
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<table align="center" cellspacing="12">
   <tr align="center">
     <td><img src="./assets/Java.png" width="50"/></td>
-    <td><img src="./assets/Html.png" width="25"/></td>
-    <td><img src="./assets/CSS.png" width="35"/></td>
+    <td><img src="./assets/Html.png" width="30"/></td>
+    <td><img src="./assets/CSS.png" width="40"/></td>
     <td><img src="./assets/JS.png" width="50"/></td>
     <td><img src="./assets/Git.png" width="40"/></td>
-     <td><img src="./assets/React.png" alt="React" width="40"/></td></table>
-    <table>
+    <td><img src="./assets/React.png" width="45"/></td>
+  </tr>
+  <tr align="center">
     <td><img src="./assets/GitHub.png" width="40"/></td>
-   <td><img src="./assets/MYSql.png" alt="MYSql" width="55"/></td> 
-  <td><img src="./assets/MongoDB.png" alt="MongoDB" width="60"/></td>
-  <td><img src="./assets/SpringBoot.png" alt="SpringBoot" width="40"/></td>
-<td><img src="./assets/NodeJS.png" alt="NodeJS" width="40"/></td>
+    <td><img src="./assets/MYSql.png" width="55"/></td>
+    <td><img src="./assets/MongoDB.png" width="55"/></td>
+    <td><img src="./assets/SpringBoot.png" width="45"/></td>
+    <td><img src="./assets/Postgre SQL.png" width="45"/></td>
+    <td><img src="./assets/NodeJS.png" width="45"/></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./assets/Tailwind CSS.png" width="45"/></td>
+    <td><img src="./assets/Redux.png" width="45"/></td>
+    <td><img src="./assets/Postman.png" width="45"/></td>
+    <td><img src="./assets/Mongoose.png" width="60"/></td>
+    <td><img src="./assets/VS Code.png" width="40"/></td>
+  
+  </tr>
 </table>
-<table>
-  <td><img src="./assets/Tailwind CSS.png" alt="Tailwind Css" width="40"/></td>
- <td><img src="./assets/Redux.png" alt="Redux" width="40"/></td>
-<td><img src="./assets/Postman.png" alt="Postman" width="40"/></td>
-<td><img src="./assets/Mongoose.png" alt="Mongoose" width="60"/></td>
-<td><img src="./assets/VS Code.png" alt="VS Code" width="35"/></td>
-<td><img src="./assets/Postgre SQL.png" alt="Postgre SQL" width="35"/></td>
-</table>
-</tr>
-</tr>
-</table>
-<br>
 
+---
 
+### ⚡ Fun Fact
+<p align="center" style="font-style:italic; max-width:600px;">
+“Teaching taught me patience. Coding taught me precision.  
+Together, they make me a better engineer.”
+</p>
 
-
-
-
-
+</div>
