@@ -19,7 +19,6 @@ Results-driven Full Stack Developer with experience in designing and deploying s
 <tr><td>💼</td><td>0.5 years of experience as a <b>Full Stack Developer</b> at Ranmars Corp, Chennai</td></tr>
 <tr><td>🎓</td><td>4 years of experience as an <b>Assistant Professor</b> at Chendhuran COET and Sri Raaja Raajan COET (Anna University)</td></tr>
 <tr><td>🚀</td><td>Currently exploring <b>Cloud & DevOps</b> — AWS, Docker, Jenkins, CI/CD</td></tr>
-<tr><td>💡</td><td>Always excited to learn emerging technologies and build real-world projects</td></tr>
 </table>
 
 ---
