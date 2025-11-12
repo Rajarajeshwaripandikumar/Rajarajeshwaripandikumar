@@ -1,6 +1,6 @@
 <div align="center" style="font-family:'Proxima Nova', sans-serif; color:#111827;">
 
-<h2 style="color:#0071DC; font-weight:800;">✨ Hi there 👋</h2>
+<h2 style="color:#0071DC; font-weight:800;"> Hi there 👋</h2>
 
 <h1 style="font-weight:900;">I'm Rajarajeshwari Pandikumar</h1>
 
@@ -9,13 +9,12 @@
 </p>
 
 <p align="center" style="max-width:700px;">
-I’m passionate about building scalable web applications using <b>React</b>, <b>Spring Boot</b>, and <b>Node.js</b> — and I love turning ideas into clean, working code.  
-With a background in both <b>software development</b> and <b>teaching</b>, I bring strong analytical skills, team collaboration, and a drive for continuous learning.
+Results-driven Full Stack Developer with experience in designing and deploying scalable applications using Spring Boot, React.js, and modern DevOps tools. Passionate about building high-performance distributed systems and continuously enhancing technical proficiency to meet global software engineering standards.
 </p>
 
 ---
 
-### 🧩 About Me
+### ✨ About Me
 <table align="center" style="font-size:15px; border-collapse:collapse;">
 <tr><td>💼</td><td>0.5 years of experience as a <b>Full Stack Developer</b> at Ranmars Corp, Chennai</td></tr>
 <tr><td>🎓</td><td>4 years of experience as an <b>Assistant Professor</b> at Chendhuran COET and Sri Raaja Raajan COET (Anna University)</td></tr>
