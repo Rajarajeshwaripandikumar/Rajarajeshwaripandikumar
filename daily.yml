@@ -1,0 +1,19 @@
+name: Daily Commit
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Auto commit
+        run: |
+          git config --global user.email "rajarajeshwaripandikumar@gmail.com"
+          git config --global user.name "Rajarajeshwari Pandikumar"
+          git clone https://github.com/${{ github.repository }} repo
+          cd repo
+          date >> activity.log
+          git add .
+          git commit -m "📆 Daily contribution update"
+          git push
