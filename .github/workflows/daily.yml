@@ -1,19 +1,35 @@
 name: Daily Commit
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "0 5 * * *"    # daily at 05:00 UTC (change if needed)
   workflow_dispatch:
+
 jobs:
-  build:
+  daily-commit:
     runs-on: ubuntu-latest
     steps:
-      - name: Auto commit
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure git user
         run: |
           git config --global user.email "rajarajeshwaripandikumar@gmail.com"
           git config --global user.name "Rajarajeshwari Pandikumar"
-          git clone https://github.com/${{ github.repository }} repo
-          cd repo
-          date >> activity.log
-          git add .
-          git commit -m "📆 Daily contribution update"
-          git push
+
+      - name: Ensure remote uses GITHUB_TOKEN for auth
+        run: |
+          echo "Setting remote to use GITHUB_TOKEN..."
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git remote -v
+
+      - name: Update activity log
+        run: |
+          echo "Update: $(date -u)" >> activity.log
+          git add activity.log
+          # Only commit if there are staged changes
+          git diff --cached --quiet || (git commit -m "📆 Daily contribution update" && git push origin HEAD:${{ github.ref_name }})
