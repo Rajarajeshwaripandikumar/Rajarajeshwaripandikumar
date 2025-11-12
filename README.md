@@ -33,7 +33,7 @@ Results-driven Full Stack Developer with experience in designing and deploying s
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajarajeshwari-pandikumar-744592339" target="_blank">
+  <a href="https://www.linkedin.com/in/rajarajeshwari-pandikumar" target="_blank">
     <img src="./assets/Linkedin.png" alt="Linkedin" width="35"/>
   </a>
 </p>
