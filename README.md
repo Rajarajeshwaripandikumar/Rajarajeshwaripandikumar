@@ -30,6 +30,34 @@ Results-driven Full Stack Developer with experience in designing and deploying s
 </table>
 
 ---
+---
+
+### 🏆 Certifications
+<table align="center" style="font-size:15px;">
+  <tr>
+    <td>📜</td>
+    <td><b>Java Full Stack Developer Certification</b><br/>
+        Frontend & Backend Development (Java, Spring Boot, React)</td>
+  </tr>
+  <tr>
+    <td>📜</td>
+    <td><b>Spring Boot & Microservices</b><br/>
+        REST APIs, JPA, Security, and Microservices Architecture</td>
+  </tr>
+  <tr>
+    <td>📜</td>
+    <td><b>MongoDB Developer Certification</b><br/>
+        NoSQL Database Design & Aggregation Framework</td>
+  </tr>
+  <tr>
+    <td>📜</td>
+    <td><b>AWS Cloud Practitioner (Foundational)</b><br/>
+        Cloud Concepts, IAM, EC2, S3, Billing & Pricing</td>
+  </tr>
+</table>
+
+
+---
 
 ### 🌐 Connect with Me
 <p align="center">
