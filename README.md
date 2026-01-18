@@ -32,30 +32,43 @@ Results-driven Full Stack Developer with experience in designing and deploying s
 ---
 ---
 
+---
+
 ### 🏆 Certifications
 <table align="center" style="font-size:15px;">
-  <tr>
+  
+   <tr>
     <td>📜</td>
-    <td><b>Java Full Stack Developer Certification</b><br/>
-        Frontend & Backend Development (Java, Spring Boot, React)</td>
+    <td>
+      <b>Full Stack Development</b><br/>
+      GUVI Geek Network Pvt. Ltd (NSDC & Skill India) | Nov 2025 <br/>
+    </td>
   </tr>
+  
   <tr>
     <td>📜</td>
-    <td><b>Spring Boot & Microservices</b><br/>
-        REST APIs, JPA, Security, and Microservices Architecture</td>
+    <td>
+      <b>Ultimate AWS Certified Solutions Architect – Associate (2026)</b><br/>
+      Issued by Udemy | Dec 2025 <br/>
+    </td>
   </tr>
+  
   <tr>
     <td>📜</td>
-    <td><b>MongoDB Developer Certification</b><br/>
-        NoSQL Database Design & Aggregation Framework</td>
+    <td>
+      <b>Microsoft Azure Fundamentals – AZ-900 Exam Prep</b><br/>
+      Issued by Udemy | Dec 2025 <br/>
+    </td>
   </tr>
+
   <tr>
     <td>📜</td>
-    <td><b>AWS Cloud Practitioner (Foundational)</b><br/>
-        Cloud Concepts, IAM, EC2, S3, Billing & Pricing</td>
+    <td>
+      <b>Advanced Software Engineering Job Simulation</b><br/>
+      Issued by Forage (Walmart Global Tech) | Jun 2025 <br/>
+    </td>
   </tr>
 </table>
-
 
 ---
 
